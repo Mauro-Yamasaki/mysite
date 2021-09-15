@@ -1,0 +1,3 @@
+https://docs.djangoproject.com/pt-br/3.2/intro/tutorial02/
+adicionar a fun‡Æo: was_published_recently
+definir o timezone no settings.py, tamb‚m
